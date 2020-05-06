@@ -1,12 +1,15 @@
 # main links
 main:
   - title: "About"
-    url: https://fiona-youkyung.github.io/about/
+    url: /about/ 
   - title: "ML"
-    url: https://fiona-youkyung.github.io/ml/
+    url: /ml/
   - title: "Marketing"
-    url: https://fiona-youkyung.github.io/marketing/
+    url: /marketing/
   - title: "Diary"
-    url: https://fiona-youkyung.github.io/diary/
+    url: /diary/
   - title: "Book"
-    url: https://fiona-youkyung.github.io/book/
+    url: /book/
+
+sidebar-about: 
+ - title : "Who am I"
