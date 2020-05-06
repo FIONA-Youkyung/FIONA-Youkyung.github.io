@@ -1,4 +1,5 @@
 ---
+layout : post
 title:  "SEO 최적화"
 excerpt: 
 toc: true
@@ -7,7 +8,7 @@ permalink: /Marketing/
 header:
   teaser: 
 
-categories:
+category:
   - Marketing
 tags:
   - 마케팅, 퍼포먼스마케팅, SEO
