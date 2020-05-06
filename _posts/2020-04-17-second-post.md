@@ -1,8 +1,9 @@
 ---
 title:  "퍼포먼스 마케팅이란?"
-excerpt: "GitHub github.io 블로그 계획."
+excerpt: 
 toc: true
 toc_sticky: true
+permalink: /Marketing/
 header:
   teaser: 
 
@@ -10,7 +11,7 @@ categories:
   - Marketing
 tags:
   - 마케팅, 퍼포먼스마케팅
-last_modified_at: 2019-04-30T08:06:00-05:00
+last_modified_at: 
 ---
 
 # 퍼포먼스 마케팅
