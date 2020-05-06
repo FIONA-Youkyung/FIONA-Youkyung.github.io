@@ -1,16 +1,16 @@
 ---
-layout : post
 title:  "퍼포먼스 마케팅이란?"
 toc: true
 toc_sticky: true
-permalink: /Marketing/
+permalink: /marketing/
 header:
   teaser: 
 
 categoies:
-  Marketing
+  - marketing
 tags:
-  마케팅, 퍼포먼스마케팅
+  - 마케팅
+  - 퍼포먼스마케팅
 last_modified_at: 
 ---
 
